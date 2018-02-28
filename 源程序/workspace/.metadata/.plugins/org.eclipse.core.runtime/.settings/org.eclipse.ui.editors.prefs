@@ -1,0 +1,6 @@
+AbstractTextEditor.Color.SelectionBackground=0,120,215
+AbstractTextEditor.Color.SelectionForeground=255,255,255
+eclipse.preferences.version=1
+hyperlinkColor=0,102,204
+infoIndicationColor=244,200,45
+overviewRuler_migration=migrated_3.1
